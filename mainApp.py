@@ -13,7 +13,6 @@ subprocess.call(
     "C:\\Users\\asus\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe", shell=True)
 
 
-
 # for compile python code to exe file :
 # first pip install pyinstaller in cmd
 # seconde E:\code\python\learning\work-desc-app>pyinstaller --onefile -w mainApp.py
